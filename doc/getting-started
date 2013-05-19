@@ -14,7 +14,6 @@ Right after you download and install Canto, I'm sure you're eager to get going. 
 
     add("http://rss.slashdot.org/slashdot/Slashdot")
     add("http://reddit.com/.rss")
-    add("http://kerneltrap.org/node/feed")
     add("http://codezen.org/canto/feeds/latest")
 
 You can find a list of the default keybinds on the [configuration page](../config/#default-binds), to help you navigate.

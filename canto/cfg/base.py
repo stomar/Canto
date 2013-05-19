@@ -78,8 +78,6 @@ class Cfg:
                 f.write("""add("""\
                         """"http://reddit.com/.rss")\n""")
                 f.write("""add("""\
-                        """"http://kerneltrap.org/node/feed")\n""")
-                f.write("""add("""\
                         """"http://codezen.org/canto/feeds/latest")\n""")
                 f.write("\n")
                 f.close()
